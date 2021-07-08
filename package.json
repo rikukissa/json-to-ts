@@ -1,5 +1,5 @@
 {
-  "name": "json-to-ts",
+  "name": "@riku/json-to-ts",
   "version": "2.1.0",
   "description": "Convert json object to typescript interfaces",
   "keywords": [
